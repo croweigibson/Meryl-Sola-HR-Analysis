@@ -39,7 +39,7 @@ Analyze Meryl Sola's HR data to gain actionable insights that will inform team a
 
 ## Data Source
 
-The dataset()was gotten from 
+The [dataset](https://github.com/croweigibson/Meryl-Sola-HR-Analysis/blob/master/Attendance%20Sheet%202022-2023_Masked.xlsx)was gotten from 
 
 ## Tools Used
  - PowerBI
