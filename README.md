@@ -39,11 +39,19 @@ Analyze Meryl Sola's HR data to gain actionable insights that will inform team a
 
 ## Data Source
 
-The [dataset](https://github.com/croweigibson/Meryl-Sola-HR-Analysis/blob/master/Attendance%20Sheet%202022-2023_Masked.xlsx)was gotten from 
+The [dataset](https://github.com/croweigibson/Meryl-Sola-HR-Analysis/blob/master/Attendance%20Sheet%202022-2023_Masked.xlsx) was gotten from 
 
 ## Tools Used
  - PowerBI
 
 ## Data Cleaning
 
-The data cleaning consists of multiple steps 
+The data cleaning consists of multiple steps
+- Importing the xlsx file to PowerBI
+- Checking for errors, duplicates, and blanks
+- Creating a single table with all the relevant data
+
+## Results
+The [results](https://github.com/croweigibson/Meryl-Sola-HR-Analysis/blob/master/HR%20Analytics.pbix) are shown in the screenshot below 
+
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k4g3egzwdlhgnm3wznoz.png" alt="Fig 1: HR Dashboard" width="100%" />
